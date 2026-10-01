@@ -1,7 +1,7 @@
-protected_health_information
+protected_health_information.txt
 
 Matthew Tate
 
-67 years old
+67 Years old
 
 King of the Philippines
